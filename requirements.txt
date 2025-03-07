@@ -1,0 +1,10 @@
+ipython
+ipykernel
+jupyter
+einops
+numpy 
+matplotlib
+pandas
+seaborn 
+networkx
+h5py
